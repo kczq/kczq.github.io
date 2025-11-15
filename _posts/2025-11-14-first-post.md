@@ -14,14 +14,14 @@ This post was created for a pretty fun workshop hosted by the digital forensics 
 ## Content 
 welcome to my website!
 <details>
-<summary> click here to learn more! </summary>
+<summary>click here to learn more!</summary>
 jk try again!
 </details>
 <details>
-<summary> click here next! </summary>
+<summary>click here next!</summary>
 getting closer!
 </details>
 <details>
-<summary> third time is a charm! </summary>
+<summary>third time is a charm!</summary>
 WOW, you're dedicated!
 </details>
