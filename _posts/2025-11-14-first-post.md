@@ -7,7 +7,7 @@ tags:[dfa, wicys]
 [description]: " My First Post: There is a first time for everything!"
 ---
 <p align="center">
-  <img src="assets/DFA.png"> alt="DFA and wicys events are so fun!" width="700">
+  <img src="/assets/DFA.png"> alt="DFA and wicys events are so fun!" width="700">
 </p>
 ## Summary
 This post was created for a pretty fun workshop hosted by the digital forensics assocation and wicys chapter here at ualbany. We hope you had fun and learned something new!
